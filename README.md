@@ -6,6 +6,7 @@ Solved DSA Questions on Leetcode in JAVA.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -27,6 +28,7 @@ Solved DSA Questions on Leetcode in JAVA.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0633-sum-of-square-numbers) |
@@ -38,5 +40,6 @@ Solved DSA Questions on Leetcode in JAVA.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
