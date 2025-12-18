@@ -20,10 +20,12 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0633-sum-of-square-numbers) |
+| [3765-complete-prime-number](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Number Theory
 |  |
 | ------- |
+| [3765-complete-prime-number](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Two Pointers
 |  |
@@ -42,4 +44,8 @@ Solved DSA Questions on Leetcode in JAVA.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
