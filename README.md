@@ -8,6 +8,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -19,12 +20,14 @@ Solved DSA Questions on Leetcode in JAVA.
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0633-sum-of-square-numbers) |
 | [3765-complete-prime-number](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0204-count-primes) |
 | [3765-complete-prime-number](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Two Pointers
@@ -47,5 +50,6 @@ Solved DSA Questions on Leetcode in JAVA.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0204-count-primes) |
 | [3765-complete-prime-number](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
