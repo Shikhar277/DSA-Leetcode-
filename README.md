@@ -7,6 +7,7 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
@@ -46,10 +47,15 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0204-count-primes) |
 | [3765-complete-prime-number](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3765-complete-prime-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
