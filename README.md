@@ -13,6 +13,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
+| [3731-find-missing-elements](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -20,6 +21,7 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
+| [3731-find-missing-elements](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Math
@@ -72,6 +74,7 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0409-longest-palindrome) |
+| [3731-find-missing-elements](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
