@@ -73,12 +73,14 @@ Solved DSA Questions on Leetcode in JAVA.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0409-longest-palindrome) |
 | [3731-find-missing-elements](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0409-longest-palindrome) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
@@ -89,4 +91,8 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
