@@ -13,6 +13,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
+| [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -53,6 +54,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0633-sum-of-square-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Greedy
 |  |
@@ -107,6 +109,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
+| [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -114,6 +117,7 @@ Solved DSA Questions on Leetcode in JAVA.
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
