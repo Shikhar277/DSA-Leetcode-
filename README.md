@@ -80,6 +80,7 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
@@ -92,6 +93,7 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0409-longest-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -108,6 +110,7 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
