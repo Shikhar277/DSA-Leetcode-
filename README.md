@@ -90,6 +90,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0992-subarrays-with-k-different-integers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3731-find-missing-elements](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
@@ -102,6 +103,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0424-longest-repeating-character-replacement](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
 |  |
@@ -125,6 +127,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [1248-count-number-of-nice-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Prefix Sum
 |  |
 | ------- |
