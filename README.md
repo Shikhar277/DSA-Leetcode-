@@ -18,6 +18,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0930-binary-subarrays-with-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3731-find-missing-elements](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -79,6 +80,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0045-jump-game-ii](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0992-subarrays-with-k-different-integers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
