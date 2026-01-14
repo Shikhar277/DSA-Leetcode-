@@ -148,4 +148,12 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
