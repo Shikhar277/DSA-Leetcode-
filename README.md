@@ -21,6 +21,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0992-subarrays-with-k-different-integers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3731-find-missing-elements](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -159,6 +160,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0042-trapping-rain-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0155-min-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -168,4 +170,5 @@ Solved DSA Questions on Leetcode in JAVA.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
