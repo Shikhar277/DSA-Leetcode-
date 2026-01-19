@@ -15,6 +15,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0204-count-primes](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
@@ -159,6 +160,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -171,4 +173,8 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0042-trapping-rain-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
