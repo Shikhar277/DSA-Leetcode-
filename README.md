@@ -116,6 +116,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0076-minimum-window-substring](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -167,6 +168,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0155-min-stack](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
