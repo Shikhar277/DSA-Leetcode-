@@ -11,6 +11,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0045-jump-game-ii](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0204-count-primes) |
@@ -86,6 +87,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0042-trapping-rain-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -161,6 +163,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
@@ -174,10 +177,15 @@ Solved DSA Questions on Leetcode in JAVA.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0735-asteroid-collision) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
