@@ -170,6 +170,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0155-min-stack](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
@@ -177,6 +178,7 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0084-largest-rectangle-in-histogram](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
@@ -194,4 +197,8 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0085-maximal-rectangle) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
