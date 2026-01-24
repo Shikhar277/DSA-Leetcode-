@@ -27,6 +27,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [3731-find-missing-elements](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -179,6 +180,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [1021-remove-outermost-parentheses](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 ## Design
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0901-online-stock-span](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 ## Simulation
 |  |
 | ------- |
@@ -207,4 +210,8 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0901-online-stock-span) |
+## Union-Find
+|  |
+| ------- |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 <!---LeetCode Topics End-->
