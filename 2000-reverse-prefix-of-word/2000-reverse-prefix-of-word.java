@@ -1,10 +1,19 @@
 class Solution {
     public String reversePrefix(String word, char ch) {
-        if(word.indexOf(ch)==-1)
-        return word;
-        StringBuilder prefix=new StringBuilder(word.substring(0,word.indexOf(ch)+1));
-        prefix.reverse();
-        String ans=prefix.toString();
-        return ans+word.substring(word.indexOf(ch)+1);
+        // USE STACK FOR REVERSAL
+        Stack<Character> st=new Stack<>();
+        StringBuilder sb=new StringBuilder();
+        int first=word.indexOf(ch);
+        for(int i=0;i<=first;i++)
+        {
+            st.push(word.charAt(i));
+        }
+        while(!st.isEmpty())
+        sb.append(st.pop());
+        for(int i=first+1;i<word.length();i++)
+        {
+            sb.append(word.charAt(i));
+        }
+        return sb.toString();
     }
 }
