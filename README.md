@@ -18,6 +18,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
@@ -172,6 +173,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0155-min-stack](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
@@ -189,6 +191,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0084-largest-rectangle-in-histogram](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
