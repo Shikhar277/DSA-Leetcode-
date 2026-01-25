@@ -1,46 +1,30 @@
 class Solution {
     public int maximumScore(int[] nums, int k) {
-        // concept of pse and nse
-        int pse[]=pse(nums);
-        int nse[]=nse(nums);
-        int max_score=0;
-        for(int i=0;i<nums.length;i++)
+        // two pointer approach
+        // there is a clear hint that k is [i,j] closed interval both included
+        // Now start two pointers from k and keep on moving them apart till the condition is true at last store the max value this is how
+        // greed works here.
+        // Actually visulisation is very important which makes this Question very easy all the sub arrays which have the kth element in it are
+        // good sub arrays so take and consider only those arrays which have k th element in them rather considering all the subarrays.
+
+        // Easy to understand
+        int i=k;int j=k;
+        int n=nums.length;
+        int min=nums[k];
+        int max_score=nums[k];
+        while(i>0 || j<n-1)
         {
-            int l=pse[i]+1;
-            int r=nse[i]-1;
-            if(l<=k && k<=r)
-            max_score=Math.max(max_score,nums[i]*(r-l+1));
+            if(i==0)
+            j++;
+            else if(j==n-1)
+            i--;
+            else if(nums[i-1]<nums[j+1]) // moving right is preferred because we want to maximise our  minimum value to get maximum score so    move towards the  maximum value
+            j++;
+            else 
+            i--;
+            min=Math.min(min,Math.min(nums[i],nums[j]));
+            max_score=Math.max(max_score,min*(j-i+1));
         }
         return max_score;
     }
-    public int[] pse(int[] arr) // prev smaller element
-    {
-       Stack<Integer> st=new Stack<>(); // store indexes
-       int n=arr.length;
-       int pse[]=new int[n];
-       for(int i=0;i<n;i++)
-       {
-         while(!st.isEmpty() && arr[st.peek()]>=arr[i])
-         st.pop();
-         
-         pse[i]=st.isEmpty()?-1:st.peek();
-         st.push(i);
-       }
-       return pse;
-    }
-       public int[] nse(int[] arr) // next smaller element
-    {
-       Stack<Integer> st=new Stack<>(); // store indexes
-       int n=arr.length;
-       int nse[]=new int[n];
-       for(int i=n-1;i>=0;i--)
-       {
-         while(!st.isEmpty() && arr[st.peek()]>=arr[i])
-         st.pop();
-         
-         nse[i]=st.isEmpty()?n:st.peek();
-         st.push(i);
-       }
-       return nse;
-    }
-}
+} 
