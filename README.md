@@ -25,6 +25,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0992-subarrays-with-k-different-integers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
@@ -62,6 +63,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0633-sum-of-square-numbers) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2000-reverse-prefix-of-word](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -69,6 +71,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Greedy
@@ -179,6 +182,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0901-online-stock-span](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2000-reverse-prefix-of-word](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
@@ -198,6 +202,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0739-daily-temperatures](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [3676-count-bowl-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3676-count-bowl-subarrays) |
