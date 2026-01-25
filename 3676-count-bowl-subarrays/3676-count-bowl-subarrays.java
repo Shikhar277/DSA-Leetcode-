@@ -15,7 +15,7 @@ class Solution {
        {
          int l=pge[i];
          int r=nge[i];
-         if(l!=-1 && r!=nums.length && Math.min(nums[l], nums[r]) > nums[i])
+         if(l!=-1 && r!=nums.length)
             count++;
        }
     return count;
