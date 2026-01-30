@@ -15,6 +15,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
@@ -72,6 +73,7 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -150,6 +152,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
@@ -167,6 +170,7 @@ Solved DSA Questions on Leetcode in JAVA.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
