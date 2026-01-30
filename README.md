@@ -20,6 +20,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
@@ -73,6 +74,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -151,6 +153,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0239-sliding-window-maximum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0992-subarrays-with-k-different-integers) |
@@ -165,6 +168,7 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1856-maximum-subarray-min-product](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1856-maximum-subarray-min-product) |
@@ -233,14 +237,17 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Tree
 |  |
 | ------- |
