@@ -258,6 +258,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -270,4 +271,5 @@ Solved DSA Questions on Leetcode in JAVA.
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
