@@ -33,6 +33,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [2104-sum-of-subarray-ranges](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2104-sum-of-subarray-ranges) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3676-count-bowl-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3676-count-bowl-subarrays) |
 | [3731-find-missing-elements](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -177,6 +178,7 @@ Solved DSA Questions on Leetcode in JAVA.
 | [1248-count-number-of-nice-subarrays](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1856-maximum-subarray-min-product](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/1856-maximum-subarray-min-product) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Counting
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Solved DSA Questions on Leetcode in JAVA.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/0085-maximal-rectangle) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Shikhar277/DSA-Leetcode-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Data Stream
 |  |
 | ------- |
